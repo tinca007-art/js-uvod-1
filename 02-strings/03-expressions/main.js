@@ -8,3 +8,8 @@ Vypište do konzole text:
 
 Pro doplnění proměnných do textu použijte template literal a výsledek (v našem příkladu 15) spočítejte přímo uvnitř textového řetězce.
 */
+
+const x = 5;
+const y = 10;
+
+console.log(`${x} plus ${y} se rovná ${x+y}.`)

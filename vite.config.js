@@ -5,7 +5,7 @@ export default defineConfig({
   // Odkomentujte cestu ke cvičení, na kterém pracujete:
 
   // --- 01-variables ---
-  root: './01-variables/01-attach-js',
+  // root: './01-variables/01-attach-js',
   // root: './01-variables/02-variables',
   // root: './01-variables/03-arithmetic-operators',
   // root: './01-variables/04-type-conversions',
@@ -16,7 +16,7 @@ export default defineConfig({
   // root: './02-strings/02-my-name',
   // root: './02-strings/03-expressions',
   // root: './02-strings/04-name-length',
-  // root: './02-strings/05-string-methods',
+   root: './02-strings/05-string-methods',
   // root: './02-strings/06-alexander-the-great',
   // root: './02-strings/07-nursery-rhyme',
   // root: './02-strings/08-tea-spoons',
