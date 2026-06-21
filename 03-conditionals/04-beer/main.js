@@ -9,3 +9,11 @@ Použijte podmínku if a do konzole vypište, zda je pivo podmírák (tj. objem 
 
 Pozor na to, že prompt() vrací hodnotu jako string, i když tam zadáte číslo. Než budete s hodnotou pracovat, je potřeba ji převést na číslo.
 */
+
+const pivo = Number(prompt('Zadej objem piva'));
+
+if(pivo < 0.5) {
+    console.log('Je to podmírák');
+} else {
+    console.log('Vše je v pořádku');
+}

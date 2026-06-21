@@ -21,7 +21,7 @@ export default defineConfig({
   // root: './02-strings/07-nursery-rhyme',
   // root: './02-strings/08-tea-spoons',
   // root: './02-strings/09-yellow-horse',
-   root: './02-strings/10-hide-number',
+  // root: './02-strings/10-hide-number',
 
   // --- 03-conditionals ---
   // root: './03-conditionals/01-if-conditional',
@@ -29,7 +29,7 @@ export default defineConfig({
   // root: './03-conditionals/03-positive-or-negative',
   // root: './03-conditionals/04-beer',
   // root: './03-conditionals/05-discount',
-  // root: './03-conditionals/06-man-or-woman',
+   root: './03-conditionals/06-man-or-woman',
   // root: './03-conditionals/07-school',
 
   // --- 04-ternary-operator ---
