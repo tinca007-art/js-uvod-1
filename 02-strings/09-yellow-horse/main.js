@@ -8,4 +8,7 @@ Do další proměnné pak získejte část textu začínající na třetím pís
 */
 
 const text = 'Příliš žluťoučký kůň úpěl ďábelské ódy';
-
+const zvire = text.slice(17, 20);
+console.log(zvire);
+const text2 = text.slice(-3);
+console.log(text2);

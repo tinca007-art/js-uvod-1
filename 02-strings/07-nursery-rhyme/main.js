@@ -20,3 +20,10 @@ const rikanka = `
   Lední medvěd, krásně bílý,
   mívá často dlouhou chvíli.
 `;
+const zvire = prompt('Zadej zvíře')
+console.log(`${rikanka.toLowerCase().includes(zvire)}`);
+
+
+
+
+

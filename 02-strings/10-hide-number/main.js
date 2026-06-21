@@ -9,3 +9,5 @@ Pokud tedy uživatel zadá `603 123 456` do konzole se vypíše `********456`
 */
 
 
+const telefon = prompt('Zadej telefonní číslo');
+console.log(telefon.slice(-3).padStart(9, '*'));

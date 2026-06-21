@@ -8,3 +8,4 @@ Ve filmu Pelíšky udělali soudruzi z NDR zásadní chybu. Mějte proměnnou se
 
 const text = 'Mě by jenom zajímalo, kde udělali soudruzi z NDR chybu.';
 
+console.log(text.indexOf('soudruzi'));

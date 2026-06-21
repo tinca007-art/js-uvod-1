@@ -16,12 +16,12 @@ export default defineConfig({
   // root: './02-strings/02-my-name',
   // root: './02-strings/03-expressions',
   // root: './02-strings/04-name-length',
-   root: './02-strings/05-string-methods',
+  // root: './02-strings/05-string-methods',
   // root: './02-strings/06-alexander-the-great',
   // root: './02-strings/07-nursery-rhyme',
   // root: './02-strings/08-tea-spoons',
   // root: './02-strings/09-yellow-horse',
-  // root: './02-strings/10-hide-number',
+   root: './02-strings/10-hide-number',
 
   // --- 03-conditionals ---
   // root: './03-conditionals/01-if-conditional',
