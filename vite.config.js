@@ -29,7 +29,7 @@ export default defineConfig({
   // root: './03-conditionals/03-positive-or-negative',
   // root: './03-conditionals/04-beer',
   // root: './03-conditionals/05-discount',
-   root: './03-conditionals/06-man-or-woman',
+  // root: './03-conditionals/06-man-or-woman',
   // root: './03-conditionals/07-school',
 
   // --- 04-ternary-operator ---

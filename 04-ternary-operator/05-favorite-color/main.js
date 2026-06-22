@@ -9,3 +9,6 @@ Pro jakoukoliv jinou barvu napište “To není moje oblíbená barva”.
 
 Použijte ternární operátor, ne podmínku if.
 */
+
+const barva = prompt('Zadej barvu');
+console.log( barva === 'zelená' || barva === 'modrá' ? 'Tuhle barvu mám taky rád' : 'To není moje oblíbená barva');

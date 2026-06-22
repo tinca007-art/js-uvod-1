@@ -9,3 +9,6 @@ Jedná-li se o hodiny 0-11, budeme je považovat za “ráno a dopoledne”.
 Použijte ternární operátor a interpolaci textových řetězců a do konzole napište text ve tvaru:
 Je 7 hodin, přejeme krásné ráno a dopoledne.
 */
+
+const hodina = Number(prompt('Kolik je hodin? (celé číslo 0 - 23)'));
+console.log(`Je ${hodina} hodin, přejeme krásné ${hodina < 12 ? 'ráno a dopoledne' : 'odpoledne a večer'}`);
